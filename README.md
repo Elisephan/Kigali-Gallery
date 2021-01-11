@@ -31,7 +31,7 @@ HTML
 
 ### Support and Contact Details
 
-Email : elise.ntakirutimana@gmail.
+Email : elise.ntakirutimana@gmail.com
 
 ### Licence 
 
